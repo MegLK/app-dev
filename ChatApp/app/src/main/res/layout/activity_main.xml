@@ -50,5 +50,7 @@
         android:divider="@android:color/transparent"
         android:layout_marginBottom="16dp"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"></ListView>
+        android:layout_height="wrap_content"
+        android:stackFromBottom="true"
+        android:transcriptMode="alwaysScroll"></ListView>
 </RelativeLayout>
