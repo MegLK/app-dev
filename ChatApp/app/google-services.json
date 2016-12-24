@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "964636324609",
+    "firebase_url": "https://chatapp-1f3dc.firebaseio.com",
+    "project_id": "chatapp-1f3dc",
+    "storage_bucket": "chatapp-1f3dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964636324609:android:0dc38fa3a0b09aa2",
+        "android_client_info": {
+          "package_name": "com.example.megankingon.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964636324609-7nt1ec76eqag9jkc6sbejv4j7fkuc9i8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.megankingon.chatapp",
+            "certificate_hash": "AB83A26B472DBE53B34EB3788F7B02492E87162C"
+          }
+        },
+        {
+          "client_id": "964636324609-j30ddfv41nvisae8ug0fl3ue19v7m8mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvvu_EG0izVbqZjnfGqb1zJ-ZxU1m0aso"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964636324609-j30ddfv41nvisae8ug0fl3ue19v7m8mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
